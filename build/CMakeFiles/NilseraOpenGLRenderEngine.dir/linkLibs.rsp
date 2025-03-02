@@ -1,0 +1,1 @@
+ "E:/desenv/C++/NilseraOpenGLRenderEngine/libs/glew-2.1.0/lib/Release/x64/glew32s.lib" E:/desenv/C++/NilseraOpenGLRenderEngine/libs/GLFW/libglfw3.a -lopengl32 E:/desenv/C++/NilseraOpenGLRenderEngine/libs/assimp/libassimp.dll.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
