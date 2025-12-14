@@ -1,4 +1,4 @@
-<img width="1226" height="679" alt="image" src="https://github.com/user-attachments/assets/1cb035f1-db00-403e-ab4d-22f2f8c65987" /># NilseraOpenGLRenderEngine
+# NilseraOpenGLRenderEngine
  A game engine made using OpenGl, this was made with the porpouse of learning how a game engine is done in a low level
 
 ![Alt text](screenshots/0.png?raw=true) ![Alt text](screenshots/1.png?raw=true)
